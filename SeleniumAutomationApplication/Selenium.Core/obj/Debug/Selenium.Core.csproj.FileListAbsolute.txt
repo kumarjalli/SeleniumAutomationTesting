@@ -1,0 +1,11 @@
+c:\users\kumar\documents\visual studio 2015\Projects\SeleniumAutomationApplication\Selenium.Core\bin\Debug\Selenium.Core.dll
+c:\users\kumar\documents\visual studio 2015\Projects\SeleniumAutomationApplication\Selenium.Core\bin\Debug\Selenium.Core.pdb
+c:\users\kumar\documents\visual studio 2015\Projects\SeleniumAutomationApplication\Selenium.Core\obj\Debug\Selenium.Core.csprojResolveAssemblyReference.cache
+c:\users\kumar\documents\visual studio 2015\Projects\SeleniumAutomationApplication\Selenium.Core\obj\Debug\Selenium.Core.dll
+c:\users\kumar\documents\visual studio 2015\Projects\SeleniumAutomationApplication\Selenium.Core\obj\Debug\Selenium.Core.pdb
+c:\users\kumar\documents\visual studio 2015\Projects\SeleniumAutomationApplication\Selenium.Core\bin\Debug\chromedriver.exe
+c:\users\kumar\documents\visual studio 2015\Projects\SeleniumAutomationApplication\Selenium.Core\bin\Debug\geckodriver.exe
+c:\users\kumar\documents\visual studio 2015\Projects\SeleniumAutomationApplication\Selenium.Core\bin\Debug\selenium-server-standalone-4.0.0-alpha-1.jar
+c:\users\kumar\documents\visual studio 2015\Projects\SeleniumAutomationApplication\Selenium.Core\bin\Debug\WebDriver.dll
+c:\users\kumar\documents\visual studio 2015\Projects\SeleniumAutomationApplication\Selenium.Core\bin\Debug\WebDriver.xml
+c:\users\kumar\documents\visual studio 2015\Projects\SeleniumAutomationApplication\Selenium.Core\bin\Debug\IEDriverServer.exe

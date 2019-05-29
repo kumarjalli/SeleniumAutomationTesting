@@ -5,14 +5,10 @@ using OpenQA.Selenium.IE;
 using OpenQA.Selenium.Remote;
 using OpenQA.Selenium.Safari;
 using System;
-using System.Collections.Generic;
 using System.Configuration;
 using System.Diagnostics;
 using System.IO;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace Selenium.Core
 {
@@ -25,11 +21,10 @@ namespace Selenium.Core
             if (m_RCProcess == null)
             {
                 m_RCProcess = new Process();
-                //ProcessStartInfo startInfo = new ProcessStartInfo("Java.exe", " -jar selenium-server-standalone-2.29.0.jar");
                 ProcessStartInfo startInfo = new ProcessStartInfo("Java.exe", " -jar selenium-server-standalone-4.0.0-alpha-1");
                 m_RCProcess.StartInfo = startInfo;
                 m_RCProcess.Start();
-                System.Threading.Thread.Sleep(500);
+                Thread.Sleep(500);
             }
             return true;
 

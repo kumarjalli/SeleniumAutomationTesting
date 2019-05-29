@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Core", "Selenium.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Automation", "Selenium.Automation\Selenium.Automation.csproj", "{C8AEB420-9379-414E-A312-DCA5D9A427D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Core", "NUnit.Core\NUnit.Core.csproj", "{F1BEBD43-2D01-4B7B-AD0B-8883C5D3998F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C8AEB420-9379-414E-A312-DCA5D9A427D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8AEB420-9379-414E-A312-DCA5D9A427D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8AEB420-9379-414E-A312-DCA5D9A427D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BEBD43-2D01-4B7B-AD0B-8883C5D3998F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BEBD43-2D01-4B7B-AD0B-8883C5D3998F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BEBD43-2D01-4B7B-AD0B-8883C5D3998F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BEBD43-2D01-4B7B-AD0B-8883C5D3998F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
